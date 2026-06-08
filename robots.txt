@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://omarRadwann.github.io/su7-ultra/sitemap.xml
+Sitemap: https://omarRadwann.github.io/su7-ultra/su7-ultra/sitemap.xml
